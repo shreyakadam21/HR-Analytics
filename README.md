@@ -17,17 +17,19 @@ Throughout this project, I've had the chance to:
 4. Data analysis: Analysis involves the creation of a range of visual representations, including bar charts, key performance indicators (KPIs), table charts, pie charts, and other relevant visualizations.These tools are utilized to gain insights and present data in a comprehensive and easily understandable manner.
 
 **Key Questions of the Dashboard :**
-What is the Total Employee Count ?
-What is the employee's Average Age & Average Salary ?
-What is the Attrition Count of men and women ?
-What is employees Working years at the Company ?
-Which Department has maximum employee ?
-What is the Gender distribution ?
-Which Education Field has maximum employees ?
-Which Business Travel has maximum employees ?
+
+- What is the Total Employee Count ?
+- What is the employee's Average Age & Average Salary ?
+- What is the Attrition Count of men and women ?
+- What is employees Working years at the Company ?
+- Which Department has maximum employee ?
+- What is the Gender distribution ?
+- Which Education Field has maximum employees ?
+- Which Business Travel has maximum employees ?
 
 **Learned about:**
-1.Calculated Field: To Calculate Attrition Rate & Active Employees
+
+1. Calculated Field: To Calculate Attrition Rate & Active Employees
 2. Matrix table: To show Job Satisfaction rating
 3. Donut chart and Pie Chart
 4. Bar Chart and Cluster chart 📊
