@@ -44,4 +44,6 @@ Throughout this project, I've had the chance to:
 5. Job Role Affected: The sales role had the highest attrition rate, indicating a need for focused retention efforts in this department to reduce turnover.
 6. Education wise Attrition: The attrition rate of High School is 18.24% which is maximum among the other education.
 7. Attrition Rate by Gender for Different Age Group: The attrition count among the age group of 25-34 years 112 which is maximum among the other age groups.
+
+# Dashboard
 ![image](https://github.com/user-attachments/assets/a194f56b-276e-492f-8a7a-56fe44665de5)
